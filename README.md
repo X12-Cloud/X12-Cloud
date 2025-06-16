@@ -1,58 +1,38 @@
-## 👋 Hey there, I'm X_12 (aka X12-Cloud)
+## 👋 Hey, I'm X_12 (aka X12-Cloud)
 
-Welcome to my corner of GitHub. I’m a curious soul who dives deep into code, systems, and how everything works under the hood. Currently building things that combine tech, AI, and Geometry Dash.
-
----
-
-### 🚀 What I'm Up To
-
-- 🔧 Low-level programming — building a compiler in C++ from scratch
-- 🧠 Experimenting with AI models and neural networks in Python (TensorFlow gang 🧪)
-- 🖥️ Making cross-platform apps that feel native and fast
-- 🌐 Exploring browser internals and custom web tech
-- 🎮 Playing GD
+Curious coder diving deep into systems, AI, and Geometry Dash. Building a compiler from scratch, training neural networks, and creating cross-platform apps with style.
 
 ---
 
-### 🧰 My Toolbox
+### 🛠 Tech Stack
 
-- **Languages:** C++, Java, Python, Bash, JavaScript
-- **Tools:** Neovim (LazyVim ⚡), JetBrains IDEs, Trae AI Editor, Linux (Arch btw), Git
-- **AI/ML:** TensorFlow, NumPy, scikit-learn
-- **UI Stuff:** Figma, TailwindCSS, Pixel Art
-
----
- 
-### 🏗️ Working On / Learning
-- **Compiler:** A compiler made purly in C++ no tools used just pure code
-- **AI/ML:** Making and Learning Deep Learningg models and neural networks 
-- **Languages Learning:** C++, Java
+`C++` `Java` `Python` `Bash` `JavaScript`  
+Neovim (LazyVim ⚡) • JetBrains • Trae • Arch Linux • Git  
+TensorFlow • NumPy • scikit-learn • TailwindCSS • Figma
 
 ---
 
-### 🤝 Let's Collaborate
+### 🚧 Currently
 
-Got something cool in mind? I'm open to:
-- 🤖 Building AI-powered tools
-- 🛠️ Optimizing low-level systems
-- 🎨 Creating stunning UIs in code ofc
-
----
-
-### 📫 Reach Me
-
-- 📮 Email: wont share it 😅 (for now)
-- 🌐 Website/Portfolio: [X-12.com] -> still in progress
-- 💬 DM me on GitHub
+- 🧠 Learning deep learning & building custom AI models  
+- ⚙️ Writing a C++ compiler [from scratch](https://github.com/X12-Cloud/your-compiler-repo)  
+- 🌐 Exploring browser internals & making tools faster
 
 ---
 
-### ⚡ Fun Fact
+### 🤝 Open to
 
-I believe good code should feel like music — smooth, expressive, and powerful.
+- 🤖 AI-powered tools  
+- ⚙️ Low-level systems work  
+- 🎮 UI in code
 
 ---
 
-> *"Code is the closest thing we have to real-world magic."* — Me, probably
+### 🔗 Contact
 
+- 🕸 Website: [X-12.com](https://X-12.com) *(coming soon)*  
+- 💬 DM me here
 
+---
+
+> *"Code is the closest thing we have to real-world magic."*— Me, probably
