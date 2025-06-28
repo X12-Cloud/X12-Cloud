@@ -6,7 +6,7 @@ Welcome to my corner of GitHub. I’m a curious soul who dives deep into code, s
 
 ### 🚀 What I'm Up To
 
-- 🔧 Low-level programming — building a compiler in C++ from scratch  
+- 🔧 Low-level programming — building everything from scratch in C++ 
 - 🧠 Experimenting with AI models and neural networks in Python (TensorFlow, NumPy)  
 - 🎮 Playing Geometry Dash — sometimes modding it too  
 - 🖥️ Trying to understand what happens between keypress and kernel
