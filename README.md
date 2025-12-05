@@ -7,23 +7,24 @@ Welcome to my corner of GitHub. I’m a curious soul who dives deep into code, s
 ### 🚀 What I'm Up To
 
 - 🔧 Low-level programming — building everything from scratch in C++ 
-- 🧠 Experimenting with AI models and neural networks in Python (TensorFlow, NumPy)  
+- 🧠 Experimenting with bare-bones stuff
 - 🎮 Playing Geometry Dash — sometimes modding it too  
 - 🖥️ Trying to understand what happens between keypress and kernel
 
 ---
 
 ### 💻 Skills
+- C++
+- C
+- Assembly
+- Hyprland
+- Arch Linux
 
 #### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-212121?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-#### Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-121011?style=for-the-badge&logo=assembly&logoColor=white)
 
 #### Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -42,7 +43,7 @@ Welcome to my corner of GitHub. I’m a curious soul who dives deep into code, s
 
 ### ☕ Let's Connect
 
-I'm always open to collaborate or chat about low-level systems, cool AI ideas, or Geometry Dash mods.  
+I'm always open to collaborate or chat about low-level systems, cool ideas, or Geometry Dash mods.  
 Feel free to reach out!
 
 > “Hacking is not just code... it's understanding systems inside-out.”  
