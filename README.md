@@ -36,9 +36,10 @@ Welcome to my corner of GitHub. I’m a curious soul who dives deep into code, s
 
 ### 📊 GitHub Stats
 
-![X_12's GitHub stats](https://github-readme-stats.vercel.app/api?username=X12-Cloud&show_icons=true&theme=dark&include_all_commits=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X12-Cloud&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=X12-Cloud&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=X12-Cloud&layout=compact&theme=dark&hide_border=true" width="41%" />
+</p>
 
 ---
 
