@@ -21,11 +21,10 @@ Welcome to my corner of GitHub. I’m a curious soul who dives deep into code, s
 - Arch Linux
 
 #### Languages
-#### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-212121?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-121011?style=for-the-badge)
+![NASM](https://img.shields.io/badge/NASM-007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 #### Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
